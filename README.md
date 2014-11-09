@@ -4,7 +4,7 @@ Eric Echeverri (ericeche@umich.edu) - Noviembre 8 2014
 
 Bajo el Directorio de ejemplos, existe un programa para el Androide que se llama HandGestureApplication
 
-![Reconocimiento de la Mano](images/img.png?raw=true "HandGestureApp")
+![Reconocimiento de la Mano](https://github.com/ericeche/AndroideParaSordos/blob/master/images/image.png "HandGestureApp")
 
 Abra la Aplicacion usando Eclipse. Efectue el mismo procedimiento para la aplicacion aFileChooser
 
