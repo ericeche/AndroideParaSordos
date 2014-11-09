@@ -1,3 +1,42 @@
+Reconocimiento de Lenguaje de Mano en el Androide
+
+Eric Echeverri (ericeche@umich.edu) - Noviembre 8 2014
+
+Bajo el Directorio de ejemplos, existe un programa para el Androide que se llama HandGestureApplication
+
+![Reconocimiento de la Mano](/images/img.png "HandGestureApp")
+
+Abra la Aplicacion usando Eclipse. Efectue el mismo procedimiento para la aplicacion aFileChooser
+
+[link](https://www.eclipse.org/)
+
+![Eclipse](/images/img2.png "Archivo de Trabajo en Eclipse")
+
+Connecte el Androide a su computador en el puerto USB, y corra la aplicacion en el Androide ( Run As Android Application)
+
+![Installando la aplicacion de Gestura de Manos](/images/img3.png "Installando la Aplicacion")
+
+Si todo sale bien usted debera ver la aplicacion instalada en el Androide con el siguiente icono:
+
+
+![Gestura de Manos Icono](/images/img4.png "Icono")
+
+Abra la aplicacion y siga las instruciones en la documentacion que sigue en este documento.
+
+
+![Gestura de Manos Reconocimiento de Patrones](/images/img6.png "Aplicacion Reconociendo Patrones")
+
+
+Observe que la gesture de manos usa la libreria LIBSVM para el reconocimiento de patrones. La base de datos necesita ser investigada y documentada para los diferentes reconocimientos de patrones por los estudiantes. La aplicacion trabaja con una muestra de datos que necesita ser modificada basada en la investigacion del estudiante. En este link encontrara la data inicial:
+
+[link](https://github.com/ericeche/AndroideParaSordos/tree/master/samples/HandGestureApp/MyDataSet)
+
+Aqui estan algunos sitios de la web para trabajar con la libreria LIBSVM
+
+[link](http://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+[link](http://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf)
+
+
 Hand Gesture Recognition App
 
 Yalun Qin (allenchin1990@gmail.com)
