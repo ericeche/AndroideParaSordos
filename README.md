@@ -4,13 +4,13 @@ Eric Echeverri (ericeche@umich.edu) - Noviembre 8 2014
 
 Bajo el Directorio de ejemplos, existe un programa para el Androide que se llama HandGestureApplication
 
-![Reconocimiento de la Mano](/images/img.png "HandGestureApp")
+![Reconocimiento de la Mano](images/img.png?raw=true "HandGestureApp")
 
 Abra la Aplicacion usando Eclipse. Efectue el mismo procedimiento para la aplicacion aFileChooser
 
-[link](https://www.eclipse.org/)
+[Eclipse](https://www.eclipse.org/)
 
-![Eclipse](/images/img2.png "Archivo de Trabajo en Eclipse")
+![Eclipse](images/img2.png?raw=true "Archivo de Trabajo en Eclipse")
 
 Connecte el Androide a su computador en el puerto USB, y corra la aplicacion en el Androide ( Run As Android Application)
 
@@ -19,22 +19,22 @@ Connecte el Androide a su computador en el puerto USB, y corra la aplicacion en 
 Si todo sale bien usted debera ver la aplicacion instalada en el Androide con el siguiente icono:
 
 
-![Gestura de Manos Icono](/images/img4.png "Icono")
+![Gestura de Manos Icono](images/img4.png?raw=true "Icono")
 
 Abra la aplicacion y siga las instruciones en la documentacion que sigue en este documento.
 
 
-![Gestura de Manos Reconocimiento de Patrones](/images/img6.png "Aplicacion Reconociendo Patrones")
+![Gestura de Manos Reconocimiento de Patrones](images/img6.png?raw=true "Aplicacion Reconociendo Patrones")
 
 
 Observe que la gesture de manos usa la libreria LIBSVM para el reconocimiento de patrones. La base de datos necesita ser investigada y documentada para los diferentes reconocimientos de patrones por los estudiantes. La aplicacion trabaja con una muestra de datos que necesita ser modificada basada en la investigacion del estudiante. En este link encontrara la data inicial:
 
-[link](https://github.com/ericeche/AndroideParaSordos/tree/master/samples/HandGestureApp/MyDataSet)
+[ base de datos LIBSVM ](https://github.com/ericeche/AndroideParaSordos/tree/master/samples/HandGestureApp/MyDataSet)
 
 Aqui estan algunos sitios de la web para trabajar con la libreria LIBSVM
 
-[link](http://www.csie.ntu.edu.tw/~cjlin/libsvm/)
-[link](http://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf)
+[LIBSVM](http://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+[Documento para investigar con LIBSVM](http://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf)
 
 
 Hand Gesture Recognition App
