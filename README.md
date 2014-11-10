@@ -10,6 +10,13 @@ Estudiantes Universidad Popular del Cesar que trabajaran en la investigacion:
 
 * JOSÉ MIGUEL SOTO ACOSTA
 
+Esta aplicacion fue installada con los siguientes sistemas:
+
+    MAC Sistema operacional 10.9.3
+    Androide Version 4.4.2
+    Libreria Open CV 2.4.10
+    Eclipse Kepler Service Release 2
+
 Bajo el Directorio de ejemplos, existe un programa para el Androide que se llama HandGestureApplication
 
 ![Reconocimiento de la Mano](https://github.com/ericeche/AndroideParaSordos/blob/master/images/image.png "HandGestureApp")
