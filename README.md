@@ -45,7 +45,10 @@ Observe que la gesture de manos usa la libreria LIBSVM para el reconocimiento de
 
 Aqui estan algunos sitios de la web para trabajar con la libreria LIBSVM
 
+
 [LIBSVM](http://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+
+
 [Documento para investigar con LIBSVM](http://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf)
 
 
