@@ -10,21 +10,25 @@ Abra la Aplicacion usando Eclipse. Efectue el mismo procedimiento para la aplica
 
 [Eclipse](https://www.eclipse.org/)
 
-![Eclipse](images/img2.png?raw=true "Archivo de Trabajo en Eclipse")
+![Eclipse](https://github.com/ericeche/AndroideParaSordos/blob/master/images/image2.png "Archivo de Trabajo en Eclipse")
 
 Connecte el Androide a su computador en el puerto USB, y corra la aplicacion en el Androide ( Run As Android Application)
 
-![Installando la aplicacion de Gestura de Manos](/images/img3.png "Installando la Aplicacion")
+![Installando la aplicacion de Gestura de Manos](https://github.com/ericeche/AndroideParaSordos/blob/master/images/image3.png "Installando la Aplicacion")
 
 Si todo sale bien usted debera ver la aplicacion instalada en el Androide con el siguiente icono:
 
 
-![Gestura de Manos Icono](images/img4.png?raw=true "Icono")
+![Gestura de Manos Icono](https://github.com/ericeche/AndroideParaSordos/blob/master/images/image4.png "Icono")
+
+Busque este icono en el androide :
+
+![Gestura de Manos Icono](https://github.com/ericeche/AndroideParaSordos/blob/master/images/image5.png "Icono")
 
 Abra la aplicacion y siga las instruciones en la documentacion que sigue en este documento.
 
 
-![Gestura de Manos Reconocimiento de Patrones](images/img6.png?raw=true "Aplicacion Reconociendo Patrones")
+![Gestura de Manos Reconocimiento de Patrones](https://github.com/ericeche/AndroideParaSordos/blob/master/images/image6.png "Aplicacion Reconociendo Patrones")
 
 
 Observe que la gesture de manos usa la libreria LIBSVM para el reconocimiento de patrones. La base de datos necesita ser investigada y documentada para los diferentes reconocimientos de patrones por los estudiantes. La aplicacion trabaja con una muestra de datos que necesita ser modificada basada en la investigacion del estudiante. En este link encontrara la data inicial:
