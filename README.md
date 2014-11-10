@@ -27,7 +27,7 @@ Abra la Aplicacion usando Eclipse. Efectue el mismo procedimiento para la aplica
 
 Instale OpenCV para el sistema operacional del Androide. Siga estas instrucciones :
 
-![Libraria del OpenCV para el Androide”](http://opencv.org/platforms/android.html)
+[Libraria del OpenCV para el Androide”](http://opencv.org/platforms/android.html)
 
 ![Eclipse](https://github.com/ericeche/AndroideParaSordos/blob/master/images/image2.png "Archivo de Trabajo en Eclipse")
 
