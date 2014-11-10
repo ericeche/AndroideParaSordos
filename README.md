@@ -17,6 +17,10 @@ Esta aplicacion fue installada con los siguientes sistemas:
     Libreria Open CV 2.4.10
     Eclipse Kepler Service Release 2
 
+Baje este repositorio a su computador utilizando el programa git.
+
+[git](http://git-scm.com/downloads)
+
 Bajo el Directorio de ejemplos, existe un programa para el Androide que se llama HandGestureApplication
 
 ![Reconocimiento de la Mano](https://github.com/ericeche/AndroideParaSordos/blob/master/images/image.png "HandGestureApp")
