@@ -4,9 +4,11 @@ Eric Echeverri (ericeche@umich.edu) - Noviembre 8 2014
 
 Estudiantes Universidad Popular del Cesar que trabajaran en la investigacion:
 
-1 BRENDA MELGAREJO CENTENA
-2 GUSTAVO ADOLFO PÉREZ MACHADO
-3 JOSÉ MIGUEL SOTO ACOSTA
+* BRENDA MELGAREJO CENTENA
+
+* GUSTAVO ADOLFO PÉREZ MACHADO
+
+* JOSÉ MIGUEL SOTO ACOSTA
 
 Bajo el Directorio de ejemplos, existe un programa para el Androide que se llama HandGestureApplication
 
